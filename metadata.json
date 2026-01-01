@@ -1,0 +1,5 @@
+{
+  "name": "BookNook",
+  "description": "A simple, elegant book summary application to browse titles, view authors, and read summaries.",
+  "requestFramePermissions": []
+}
